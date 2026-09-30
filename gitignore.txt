@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+
+# The projector build is copied here by live/app/scripts/ship-web.sh at deploy time.
+# It is build output: rebuilt from live/app, never edited, never committed.
+live/web/wall-*/
